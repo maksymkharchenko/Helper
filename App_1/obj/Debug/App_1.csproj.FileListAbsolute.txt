@@ -1,0 +1,113 @@
+C:\Users\maxim\source\repos\App_1\bin\Debug\App_1.exe.config
+C:\Users\maxim\source\repos\App_1\bin\Debug\App_1.exe
+C:\Users\maxim\source\repos\App_1\bin\Debug\App_1.pdb
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Form1.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Properties.Resources.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.exe
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.pdb
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Реєстрація.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Меню.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Form6.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Form7.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Оплата.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Успіх.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Зміна_E_mail.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Зміна_логіну.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Зміна_паролю.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Зміна_платіжних_даних.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Налаштування.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.PayPal.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Qiwi.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.WebMoney.resources
+C:\Users\maxim\source\repos\App_1\obj\Debug\App_1.Онлайн_гаманці.resources
+C:\Users\maxim\Desktop\App_1\bin\Debug\App_1.exe.config
+C:\Users\maxim\Desktop\App_1\bin\Debug\App_1.exe
+C:\Users\maxim\Desktop\App_1\bin\Debug\App_1.pdb
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.PayPal.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Qiwi.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.WebMoney.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Зміна_E_mail.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Зміна_логіну.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Зміна_паролю.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Зміна_платіжних_даних.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Налаштування.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Онлайн_гаманці.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Успіх_.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Успіх.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Оплата.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Form6.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Form7.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Form1.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Реєстрація.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Меню.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.Properties.Resources.resources
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.csproj.GenerateResource.cache
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.exe
+C:\Users\maxim\Desktop\App_1\obj\Debug\App_1.pdb
+C:\Users\maxim\Desktop\App_1\bin\Debug\Database1.mdf
+C:\Users\maxim\Desktop\App_1\bin\Debug\Database1_log.ldf
+C:\Users\maxim\Documents\GitHub\ffff\App_1\bin\Debug\Database1.mdf
+C:\Users\maxim\Documents\GitHub\ffff\App_1\bin\Debug\Database1_log.ldf
+C:\Users\maxim\Documents\GitHub\ffff\App_1\bin\Debug\App_1.exe.config
+C:\Users\maxim\Documents\GitHub\ffff\App_1\bin\Debug\App_1.exe
+C:\Users\maxim\Documents\GitHub\ffff\App_1\bin\Debug\App_1.pdb
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.csprojAssemblyReference.cache
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.PayPal.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Qiwi.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.WebMoney.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Зміна_E_mail.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Зміна_логіну.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Зміна_паролю.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Зміна_платіжних_даних.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Налаштування.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Онлайн_гаманці.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Успіх_.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Успіх.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Оплата.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Form6.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Form7.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Form1.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Реєстрація.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Меню.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.Properties.Resources.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.csproj.GenerateResource.cache
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.exe
+C:\Users\maxim\Documents\GitHub\ffff\App_1\obj\Debug\App_1.pdb
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\Database1.mdf
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\Database1_log.ldf
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\App_1.exe.config
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\App_1.exe
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\App_1.pdb
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.PayPal.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Qiwi.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.WebMoney.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Зміна_E_mail.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Зміна_логіну.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Зміна_паролю.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Зміна_платіжних_даних.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Налаштування.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Онлайн_гаманці.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Успіх_.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Успіх.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Оплата.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Form6.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Form1.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Реєстрація.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Меню.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Properties.Resources.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.csproj.GenerateResource.cache
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.exe
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.pdb
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.Комунальні_послуги.resources
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\Google.Protobuf.dll
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\MySql.Data.dll
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\Renci.SshNet.dll
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\Google.Protobuf.xml
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\MySql.Data.xml
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\bin\Debug\Renci.SshNet.xml
+C:\Users\maxim\Desktop\Новая папка (4)\App_1\obj\Debug\App_1.csproj.CopyComplete
